@@ -3,13 +3,14 @@ Son la nación con el puesto de spelljammer más grande e importante y ha termin
 Fueron los descubridores del Nuevo Continente, Axca, y expandieron el reino con la nación que actualmente es conocida como el [[Sacro Reino de Salamanca]] y esta bajo las ordenes del Virrey. 
 El reino esta dividido en 4 regiones que a su vez se dividen en 2 provincias cada una.
 
-#### Datos Generales
+## Datos Generales
 * **Forma de Gobierno**: Monarquía Teocrática Hereditaria
 * **Año de fundación**: 0 P.C.
 * **Gobernante Actual**: Cognita, la doliente
-* **Religión**: Sagrada Iglesia de Nuestra Señora del Azogue
+* **Religión**: [[Sagrada Iglesia de Nuestra Señora del Azogue]]
 * **Animal oficial:** Dragon Lunar
 * **Lenguaje oficial**: Común, en algún punto se hablo el Selûnico
+* Previamente conocido como: Magno Reino de Astra
 
 
 ## Historia
