@@ -11,6 +11,7 @@ El Imperio también ha librado innumerables batallas contra el reino, no se enti
 * **Religión**: No cuentan con una fe en especial
 * **Animal oficial**: Hipogrifo
 * **Lenguaje oficial**: Común, Aliyaico
+* Previamente conocido como: _No hay registros_
 ## Historia
 Tras la separación del Magno Reino de Astra se dice que la Legión Dorada, rama del ejercito real exiliada, se adentro en el Gran Desierto Áureo donde fundarían una ciudad estado bajo el gobierno del general de la legión. Esta pequeña urbe mostro su poder no solo durante las refriegas contra el Reino, sino que también al anexar poco a poco el resto de naciones y tribus que se encontraban dentro del desierto, muchas fueron conquistadas pero otras se sintieron atraídas por la premisa del inmenso poder que esta nación en potencia desprendía. Sin embargo todo el poder y avance militar se vio mermado al final de la Hecatombe Dorada, cuando la legión dorada y sus tropas "desaparecieron como castigo de la Diosa". Se dice que después de esta gran perdida, un caudillo enano harto de las decisiones del ahora difunto gobernante tomó las riendas de la nación y la formalizo ante todo el continente como el Imperio de Aaliyah.
 Bajo la dirección de este caudillo recién nombrado Califa Dorado, el Imperio se concentro en el desarrollo tecnológico ya que al tener como testimonio el poder de los dioses, se decidió que no se interactuaría nunca más con ellos porque el verdadero poder tenía que surgir por la ambición de los humanoides que eran los legítimos dueños de esta tierra. Este enfoque termino haciendo que dentro de poco y con apoyo del aether como combustible, se volvieron la nación más tecnológicamente avanzada del continente llegando al punto en que a pesar de la mala relación en la que se encuentra con el Reino, este último compra gran parte de sus maquinaría en el Imperio. Sin embargo estos no han terminado de descubrir los secretos del spelljamming como lo ha logrado el Reino.
@@ -18,4 +19,8 @@ Se cuenta que gracias a esto, un nuevo resentimiento surgió al verse rebasados 
 Uno de los Al-Dawa restantes, el más rico y con más influencia dentro del Imperio fue nombrado Califa y es el que actualmente gobierna sobre esta tierra. Ha tratado de mejorar la relación con el Reino pero es un secreto a voces su desprecio por la nación.
 
 ## Geografía 
-La gran mayoría del Imperio se encuentra en el Gran Desierto Áureo 
+La gran mayoría del Imperio se encuentra en el Gran Desierto Áureo, un vasto desierto mayormente plano, aunque en su parte este la Cordillera de Galistan reduce la altura de sus montañas para dar lugar a la Cordillera de Dhahabi. A pesar de la gran extensión del desierto, cuenta con 3 ríos que atraviesan la región y que propician zonas ricas en vegetación donde se han terminado de establecer las ciudades más grandes.
+El territorio del imperio se divide en una capital donde reside el Califa Dorado y 7 estados cada uno con un Al-Dawa asignado y una capital. 
+(Luego agregare los estados, give me a break punk)
+
+## Gobierno
