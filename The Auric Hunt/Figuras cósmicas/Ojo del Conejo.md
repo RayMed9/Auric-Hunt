@@ -1,0 +1,3 @@
+El sistema solar donde se encuentra el planeta de [[Selûne]], consta de un [[Sol]] relativamente pequeño y 6 planetas: Hiperius, Selûne, Nicta, , Dius y Auros. Según revelaron las investigaciones llevadas por la reina Cognita, la composición de los planetas es engañosa ya que al estar llenos de restos antiguos de otros lugares pueden llegar a parecer más viejos de lo que realmente son. 
+Según lo que parecen arrojar los estudios llevados a cabo por el Colegio de Magia, parece ser que los planetas están formados con materiales diferentes a los que se pueden encontrar dentro de este sistema de wildspace; lo que parece sugerir que posiblemente se formo con el ingreso de materia proveniente de lo que se cree fue otro portal del plano astral.
+
