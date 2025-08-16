@@ -7,6 +7,7 @@ El reino esta dividido en 4 regiones que a su vez se dividen en 2 provincias cad
 * **Forma de Gobierno**: Monarquía Teocrática Hereditaria
 * **Año de fundación**: 0 P.C.
 * **Gobernante Actual**: Cognita, la doliente
+* Capital: Sacra Vizcaya
 * **Religión**: [[Sagrada Iglesia de Nuestra Señora del Azogue]]
 * **Animal oficial:** Dragon Lunar
 * **Lenguaje oficial**: Común, en algún punto se hablo el Selûnico
@@ -15,7 +16,7 @@ El reino esta dividido en 4 regiones que a su vez se dividen en 2 provincias cad
 
 ## Historia
 ##### Origen
-Originalmente, el Reino nació por parte de la Sagrada Iglesia de Nuestra Señora del Azogue bajo el nombre del Magno Reino de Astra, cubriendo los territorios de loque actualmente es el Reino y el Imperio. Se dice que prospero durante poco más de 1500 años hasta que una rama del ejercito, la Legión Dorada, dijo que vio las mentiras de la iglesia y decidió empezar una guerra civil. Tras 200 años de una cruenta lucha eventualmente se decidió que lo mejor que se podía hacer era exiliar a la legión y entregarles su propio territorio para detener las perdidas civiles, se les dio parte de las tierras de lo que ahora es el sur del imperio y el reino decidió reestructurarse. 
+Originalmente, el Reino nació por parte de la Sagrada Iglesia de Nuestra Señora del Azogue bajo el nombre del Magno Reino de Astra, cubriendo los territorios de loque actualmente es el Reino y el Imperio. Se dice que prospero durante poco más de 1500 años hasta que una rama del ejercito, la Legión Dorada, dijo que vio las mentiras de la iglesia y decidió empezar una guerra civil. Tras 100 años de una cruenta lucha eventualmente se decidió que lo mejor que se podía hacer era exiliar a la legión y entregarles su propio territorio para detener las perdidas civiles, se les dio parte de las tierras de lo que ahora es el sur del imperio y el reino decidió reestructurarse. 
 Tras la fundación formal del Sacro Reino de Cádiz, se formo el oficio Tenebris y el oficio Terra con el propósito de ayudar a que las decisiones de la reina buscarán el mayor beneficio del pueblo. 
 ##### Aether e intervención feérica
 Durante esta nueva etapa de la vida del reino, se descubrió algo que llegaría a revolucionar el potencial tecnológico de todo el reino, un nuevo combustible que aparentemente no solo era reactivo a la magia, podía potenciarla; el **aether** se volvió el descubrimiento del milenio. Este descubrimiento trajo atención no deseada de parte de habitantes de otros planos, culminando con la llegada de seres feéricos de la llamada _"Corte de Invierno"_ que amenazaron con tomar todo el reino con la excusa de "la búsqueda de un amigo perdido". Esto termino en la _**Cacería de hadas**_ la cuál al acabar dejo varados en el plano material a seres feéricos de la llamada _"Corte de Verano"_.
@@ -42,7 +43,7 @@ Las regiones deben su nombre a las constelaciones que se asientan en su direcci�
 	* Laín de Cartago: La provincia este de Kassius, caracterizada por su terreno accidentado con varias colinas y muchos socavones. También es el acceso principal a la Alianza de Catarina desde el reino gracias a que posee el punto más bajo de los Alpes de Galistan.
 * Cannis: Region sur del reino, su frontera con el Imperio le ha permitido conseguir maquinaria más grande, lo que ha terminado haciendo que se convierta en una región industrial donde se ven muchos avances del Reino. Es mayoritariamente planicies y pastizales que poco a poco se transforman en desierto a medida que se acerca al a frontera del Imperio
 	* Silvana de Apostinatina: Provincia norte de la región de Cannis, se caracteriza por su elevación mayoritariamente pareja y por algunos sistemas montañosos, su clima es templado cambiando a cálido mientras se va acercando al sur.
-	* Domina de los Angeles Sur: Provincia sur de la región de Cannis y el mayor exponente de industria del reino. Pasa gradualmente de pastizales a desierto mientras se acerca al sur. Al ser la frontera con el Imperio, es la provincia con la milicia local más fuerte y se ha encargado de fortificar toda la frontera, dejando un solo gran acceso custodiado con alta vigilancia.
+	* Domina de los Angeles: Provincia sur de la región de Cannis y el mayor exponente de industria del reino. Pasa gradualmente de pastizales a desierto mientras se acerca al sur. Al ser la frontera con el Imperio, es la provincia con la milicia local más fuerte y se ha encargado de fortificar toda la frontera, dejando un solo gran acceso custodiado con alta vigilancia.
 Debido a la extensión del reino, se opto por hacer 1 gran carretera que atravesara las regiones del reino y que lograra conectarlas con la capital. La gran carretera es un circulo que pasa por las cuatro regiones y enlaza las capitales de las regiones y la capital del reino.
 
 * ***CAMINO DE SOLEÁ:*** El camino que atraviesa la región de Ursus, su ramificación que conecta con la capital es el Camino de Terceto
