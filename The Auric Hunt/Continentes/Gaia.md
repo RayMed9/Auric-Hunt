@@ -1,7 +1,0 @@
-El continente principal del viejo mundo de Selûne, posee 4 territorios reconocidos y 2 de los más grandes países del planeta hasta el momento, en sus tierras podemos destacar 4 territorios principales:
-* [[Sacro Reino de Cádiz]]: Territorio ocupado por la Santa Corona, cuenta con el puerto de spelljamming más grande de todo el planeta.
-* [[Imperio de Aaliyah]]: Territorio ocupado por el Califa Dorado, se le considera la capital de la innovación industrial y desarrollo tecnológico. Se encuentra al sur del Reino, donde comienza el Paramo Cobrizo
-* [[Alianza de Catarina]]: Territorio ocupado por los Ducados de Platine y Stal', conocida por su poder económico y su gran disciplina marcial y mágica. Se encuentra al este del Reino atravesando los Alpes de Galistan
-* [[Tierras Salvajes]]: Territorio ocupado por múltiples clanes bárbaros, conocido por la inclemencia de su ambiente, criaturas y gente; se dice que aquí es donde tiene sus raíces la abominable hemomancia. Se encuentra al noreste del reino, tras la sección más norte de los Alpes de Galistan y entrando a la cruenta Tundra de Svartjern
-
-Hacía el sur del Imperio se puede llegar a Lacritea, hogar de los antiguos Reinos del sur, y hacía el este de la Alianza de Catalina se encuentra Cetudi con los Místicos Reinos del Este

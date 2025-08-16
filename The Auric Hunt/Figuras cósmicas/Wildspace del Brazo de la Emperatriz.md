@@ -1,3 +1,0 @@
-Una galaxia que se dice se encuentra situada en el borde del universo, según la vieja mitología de los elfos astrales, la galaxia se formo como consecuencia de una ruptura del plano astral que disperso gran cantidad de escombros estelares que tras suficiente tiempo lograron formar varios intrincados sistemas de estrellas. 
-El tipo de galaxia es lo que nosotros llamaríamos de Espiral barrida, dando así lugar a esa particular forma que describe el nombre, el cuál a su vez también tiene su origen dentro de un mito del antiguo Sêlune.
-Las figuras más estudiadas de momento es el sistema solar del [[Ojo del Conejo]] y la nebulosa de la Puerta de Aetherum, aunque tambien se tiene un mapa impreciso de como esta la posible distribución de la galaxia.

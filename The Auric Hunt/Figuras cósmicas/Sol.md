@@ -1,2 +1,0 @@
-Una estrella enana de tipo G con un tamaño menor que el sol de nuestro sistema solar. 
-No mucho se ha estudiado sobre el sol recientemente, toda la información que queda es de eras pasada y lo traído del nuevo continente.  La censura tras la 2da Era ha traído en consecuencia que mucha información se pierda y que muchos sean ejecutados por empezar a investigar en profundidad al sol.

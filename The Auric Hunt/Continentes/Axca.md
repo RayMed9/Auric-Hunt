@@ -1,1 +1,0 @@
-[[Sacro Reino de Salamanca]]
